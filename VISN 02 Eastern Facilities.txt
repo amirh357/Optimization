@@ -1,0 +1,13 @@
+City	Address
+Schenectady	1322 Gerling Street, Sheridan Plaza Schenectady, NY 12308
+Troy	295 River Street Troy, NY 12180
+Clifton Park	1673 Route 9 Clifton Park, NY 12065
+Westport	7426 NYS Route 9N Westport, NY 12993
+Fonda	2623 State Highway 30A Fonda, NY 12068
+Glens Falls	84 Broad St. Glens Falls, NY 12801
+Plattsburgh	80 Sharron Avenue Plattsburgh, NY 12901
+Saranac Lake	33 Depot St. Saranac Lake, NY 12983
+Catskill	Columbia Greene Medical Arts Building, Suite A102, 159 Jefferson Hgts Catskill, NY 12414
+Kingston	324 Plaza Road Kingston, NY 12401
+Albany	113 Holland Avenue Albany, NY 12208
+Bainbridge	109 North Main Street Bainbridge, NY 13733
